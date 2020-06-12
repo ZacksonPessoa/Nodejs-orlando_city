@@ -1,0 +1,26 @@
+{
+  "name": "orlando_city",
+  "version": "1.0.0",
+  "description": "City de um clube de footebol do USA chamado Orlando City",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZacksonPessoa/Nodejs-orlando_city.git"
+  },
+  "keywords": [
+    "Z@6k50nm"
+  ],
+  "author": "Zackson Pessoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZacksonPessoa/Nodejs-orlando_city/issues"
+  },
+  "homepage": "https://github.com/ZacksonPessoa/Nodejs-orlando_city#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
